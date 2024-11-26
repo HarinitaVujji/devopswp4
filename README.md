@@ -1,2 +1,2 @@
 # devopswp4
-A sample java program
+A sample helloworld java program
